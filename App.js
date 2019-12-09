@@ -27,9 +27,7 @@ import {
 const App: () => React$Node = () => {
   return (
     <View style={styles.container}>
-      <Text>xxxxxx</Text>
-      <Text>xxxxxx</Text>
-      <Text>xxxxxx</Text>
+      <Text>Weed App</Text>
     </View>
   )
 }
